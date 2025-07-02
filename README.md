@@ -3,8 +3,6 @@
 </div>
 <img src="https://i.imgur.com/BHoMhjR.png">
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)
-
 ## About me
 
 🌟 Fullstack Developer 
@@ -15,7 +13,14 @@
 
 <br>
 
+### ⚙️ &nbsp;GitHub dmadcham
 
+<p align="center">
+<a href="https://github.com/dmadcham">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmadcham&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmadcham&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **dmadcham/DMadCham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
