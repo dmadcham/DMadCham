@@ -1,4 +1,18 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi there, I am Diego <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</div>
+<img src="https://i.imgur.com/BHoMhjR.png">
+
+## About me
+
+🌟 Fullstack Developer 
+
+📚 Active learner 
+
+🚀 Constantly improving and creating projects 
+
+<br>
+
 
 <!--
 **dmadcham/DMadCham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
