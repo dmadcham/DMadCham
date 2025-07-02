@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/BHoMhjR.png">
 
-![Linkedin](https://img.shields.io/badge/www.linkedin.com/in/diegomadroñerochamorro)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 ## About me
 
