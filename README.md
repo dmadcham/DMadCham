@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/BHoMhjR.png">
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)
 
 ## About me
 
