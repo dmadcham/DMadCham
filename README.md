@@ -3,6 +3,8 @@
 </div>
 <img src="https://i.imgur.com/BHoMhjR.png">
 
+![Linkedin](https://img.shields.io/badge/www.linkedin.com/in/diegomadroñerochamorro)
+
 ## About me
 
 🌟 Fullstack Developer 
@@ -12,6 +14,7 @@
 🚀 Constantly improving and creating projects 
 
 <br>
+
 
 
 <!--
